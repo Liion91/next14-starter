@@ -1,0 +1,3 @@
+per poter accedere alle pagine di login / register ....
+non serve mettere auth/login 
+perché la cartella con il nome tra () serve solo per raggrupparle, non compone la rotta
